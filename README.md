@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rasmita404
-- 👀 I’m interested in competitive coding, machine learning , data analysis.
+- 👀 I’m interested in competitive coding, web development, machine learning , data analysis.
 - 🌱 I’m currently learning  machine learning algorithms and various tools to analyse and visualize data.
-- 💞️ I’m looking to collaborate.
+- 💞️ I’m looking to collaborate on web based(node JS, Flask) projects or machine learning projects.
 - 📫 How to reach me sahurasmita409@gmail.com
 
 <!---
